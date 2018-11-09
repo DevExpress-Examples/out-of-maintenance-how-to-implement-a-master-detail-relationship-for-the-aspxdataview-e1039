@@ -1,12 +1,12 @@
 <%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="MDDataViewCS._Default" %>
 
-<%@ register Assembly="DevExpress.Web.v8.3" Namespace="DevExpress.Web.ASPxPanel"
+<%@ register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxPanel"
     TagPrefix="dxp" %>
 
-<%@ register Assembly="DevExpress.Web.v8.3" Namespace="DevExpress.Web.ASPxRoundPanel"
+<%@ register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxRoundPanel"
     TagPrefix="dxrp" %>
 
-<%@ register Assembly="DevExpress.Web.v8.3" Namespace="DevExpress.Web.ASPxDataView"
+<%@ register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxDataView"
     TagPrefix="dxdv" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
