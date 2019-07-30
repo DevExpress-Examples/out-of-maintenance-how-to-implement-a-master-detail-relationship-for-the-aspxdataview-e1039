@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # How to implement a master-detail relationship for the ASPxDataView.
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1039)**
+**[[Run Online]](https://codecentral.devexpress.com/e1039/)**
 <!-- run online end -->
 
 
