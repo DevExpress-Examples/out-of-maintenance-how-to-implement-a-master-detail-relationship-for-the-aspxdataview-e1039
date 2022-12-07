@@ -44,7 +44,7 @@ namespace MDDataViewCS {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxDataView.ASPxDataView ASPxDataView1;
+        protected global::DevExpress.Web.ASPxDataView ASPxDataView1;
         
         /// <summary>
         /// dsMaster control.

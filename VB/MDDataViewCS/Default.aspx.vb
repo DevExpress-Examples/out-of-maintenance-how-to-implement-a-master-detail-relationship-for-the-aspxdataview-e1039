@@ -9,8 +9,7 @@ Imports System.Web.UI
 Imports System.Web.UI.WebControls
 Imports System.Web.UI.WebControls.WebParts
 Imports System.Web.UI.HtmlControls
-Imports DevExpress.Web.ASPxDataView
-Imports DevExpress.Web.ASPxRoundPanel
+Imports DevExpress.Web
 
 Namespace MDDataViewCS
 	Partial Public Class _Default
