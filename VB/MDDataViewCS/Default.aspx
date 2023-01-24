@@ -1,12 +1,12 @@
 <%@ Page Language="vb" AutoEventWireup="true" CodeBehind="Default.aspx.vb" Inherits="MDDataViewCS._Default" %>
 
-<%@ register Assembly="DevExpress.Web.v15.1" Namespace="DevExpress.Web"
+<%@ register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web"
 	TagPrefix="dxp" %>
 
-<%@ register Assembly="DevExpress.Web.v15.1" Namespace="DevExpress.Web"
+<%@ register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web"
 	TagPrefix="dxrp" %>
 
-<%@ register Assembly="DevExpress.Web.v15.1" Namespace="DevExpress.Web"
+<%@ register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web"
 	TagPrefix="dxdv" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
